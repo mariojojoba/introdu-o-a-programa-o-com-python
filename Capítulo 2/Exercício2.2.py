@@ -1,0 +1,1 @@
+print(10 % 3 * 10 ** 2 + 1 - 10 * 4 / 2) # o sinal "%" dá o valor do resto da divisão, que nesse caso seria 1.
